@@ -1,0 +1,9 @@
+channels:
+    - conda-forge
+
+dependencies:
+    - python
+    - pandas
+    - numpy
+    - matplotlib
+    - f2py
