@@ -1,9 +1,4 @@
-channels:
-    - conda-forge
-
 dependencies:
-    - python3
     - pandas
     - numpy
     - matplotlib
-    - xlrd
